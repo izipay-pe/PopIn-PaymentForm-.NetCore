@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopInPaymentForm", "PopInPaymentForm\PopInPaymentForm.csproj", "{77C678E2-64F0-4432-A699-3513B7F11AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C678E2-64F0-4432-A699-3513B7F11AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C678E2-64F0-4432-A699-3513B7F11AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C678E2-64F0-4432-A699-3513B7F11AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C678E2-64F0-4432-A699-3513B7F11AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F79BFD80-7B19-444C-B938-5882D2D8BBC2}
+	EndGlobalSection
+EndGlobal
